@@ -1,0 +1,86 @@
+export const data = [
+  {
+      key: '1',
+      details: 'Api Gateway',
+      version: '54asgd36',
+      type: 'docker',
+      update: '55 min ago',
+      status:'running',
+      uptime:'5 days, 3 hours',
+      rateLimits:'1000 requests per minute',
+      lastDeployed:'16-10-2024',
+      deployedBy:'Karthigeyan Srinivasan'
+  },
+  {
+      key: '2',
+      details: 'Backend',
+      version: '34hjhg67',
+      type: 'docker',
+      update: '30 min ago',
+      status:'stopped',
+      uptime:'11 days, 11 hours',
+      rateLimits:'1200 requests per minute',
+      lastDeployed:'12-10-2024',
+      deployedBy:'Leon Jayaseelan'
+  },
+  {
+      key: '3',
+      details: 'Dashboard',
+      version: '12asd45',
+      type: 'docker',
+      update: '20 min ago',
+      status:'running',
+      uptime:'11 days, 11 hours',
+      rateLimits:'900 requests per minute',
+      lastDeployed:'06-10-2024',
+      deployedBy:'Swetha Senthil'
+  },
+  {
+      key: '4',
+      details: 'DB',
+      version: '98sdfg54',
+      type: 'postgres',
+      update: '10 min ago',
+      status:'running',
+      uptime:'11 hours',
+      rateLimits:'2000 requests per minute',
+      lastDeployed:'16-10-2024',
+      deployedBy:'Monica Muthu'
+  },
+  {
+      key: '5',
+      details: 'Frontend',
+      version: '85tghj67',
+      type: 'docker',
+      update: '5 min ago',
+      status:'stopped',
+      uptime:'20 days, 0 hours',
+      rateLimits:'1000 requests per minute',
+      lastDeployed:'13-10-2024',
+      deployedBy:'Muthu Manjula'
+  },
+  {
+      key: '6',
+      details: 'Redis',
+      version: '25dfg67',
+      type: 'postgres',
+      update: 'Just now',
+      status:'stopped',
+      uptime:'16 days, 0 hours',
+      rateLimits:'800 requests per minute',
+      lastDeployed:'05-10-2024',
+      deployedBy:'Zoe Morgan'
+  },
+  {
+      key: '7',
+      details: 'SQS',
+      version: '65dfg78',
+      type: 'postgres',
+      update: '1 hr ago',
+      status:'stopped',
+      uptime:'10 days, 10 hours',
+      rateLimits:'1100 requests per minute',
+      lastDeployed:'15-10-2024',
+      deployedBy:'Nisha Kumar'
+  },
+];
